@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "myrl-platform",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "30ad3aa5-8c61-4410-ba1b-890d9d3103dd",
+			"database_name": "myrl-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
